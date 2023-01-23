@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+The blog for the computing longevity standardization and activism project. Make software last forever, and hardware last a lifetime.
